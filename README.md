@@ -5,6 +5,9 @@
 Welcome to the Events Management Application (EMA). This Android app is designed to help event organizers manage and categorize events efficiently. 
 The app includes functionalities such as user registration, login, event and category creation, and an interactive dashboard for managing events.
 
+Note : All the Java Classes related to the project are located in the directory : app/src/main/java/com/example/assignment_1
+All the layout files related to the project are located in the directory : app/src/main/res/layout
+
 ## Features
 
 - **User Authentication**: 
@@ -101,6 +104,11 @@ The app includes functionalities such as user registration, login, event and cat
 
 - Incoming SMS functionality for filling event forms is not implemented in this version.
 - Ensure that only one credential (username and password) is managed.
+
+## Development Tool
+
+This Android Application has been developed using Android Studio.
+To view and run the application, please clone this repository and open it in Android Studio.
 
 ## About the Developer
 
